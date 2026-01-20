@@ -1,2 +1,4 @@
-Tutaj jest hello world 
-Tutaj jest zmiana wojtka R
+
+Tutaj jest hello world
+mysle ze witamy swiat
+
