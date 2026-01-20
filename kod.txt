@@ -1,1 +1,2 @@
 Tutaj jest hello world 
+Tutaj jest zmiana wojtka R
